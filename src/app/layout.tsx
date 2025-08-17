@@ -44,7 +44,7 @@ export default function RootLayout({
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "FlowMaster Plumbing",
+    "name": "Able Plumbing",
     "description": "Expert plumbing services for residential and commercial properties. 24/7 emergency plumbing, repairs, installations, and maintenance. Licensed, insured, and guaranteed.",
     "url": "https://flowmaster-plumbing.com",
     "telephone": "+1-555-0123",
