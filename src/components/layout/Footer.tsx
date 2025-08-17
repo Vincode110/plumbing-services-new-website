@@ -26,7 +26,7 @@ export function Footer() {
             <div className="space-y-6">
               <div className="flex items-center space-x-2">
                 <Droplets className="h-8 w-8 text-blue-400" />
-                <span className="text-xl font-bold">FlowMaster</span>
+                <span className="text-xl font-bold">Able Plumbing</span>
               </div>
               <p className="text-gray-400">
                 Professional plumbing services you can trust. Serving our community with integrity, expertise, and exceptional customer service since 2009.
@@ -143,7 +143,7 @@ export function Footer() {
                   <Mail className="h-5 w-5 text-blue-400 mt-0.5 flex-shrink-0" />
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-gray-400">service@flowmaster.com</p>
+                    <p className="text-gray-400">info@ableplumbing.com</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-3">
