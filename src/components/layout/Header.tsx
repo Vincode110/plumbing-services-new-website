@@ -26,7 +26,7 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <Droplets className="h-8 w-8 text-blue-600" />
-            <span className="text-xl font-bold text-blue-900">FlowMaster</span>
+            <span className="text-xl font-bold text-blue-900">Able Plumbing</span>
           </Link>
 
           {/* Desktop Navigation */}
