@@ -18,20 +18,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FlowMaster Plumbing | Professional Plumbing Services",
+  title: "Able Plumbing | Professional Plumbing Services",
   description: "Expert plumbing services for residential and commercial properties. 24/7 emergency plumbing, repairs, installations, and maintenance. Licensed, insured, and guaranteed.",
   keywords: ["plumbing services", "emergency plumber", "pipe repair", "water heater installation", "drain cleaning", "leak detection", "professional plumber"],
-  authors: [{ name: "FlowMaster Plumbing" }],
+  authors: [{ name: "Able Plumbing" }],
   openGraph: {
-    title: "FlowMaster Plumbing | Professional Plumbing Services",
+    title: "Able Plumbing | Professional Plumbing Services",
     description: "Expert plumbing services for residential and commercial properties. 24/7 emergency plumbing available.",
-    url: "https://flowmaster-plumbing.com",
-    siteName: "FlowMaster Plumbing",
+    url: "https://able-plumbing.com",
+    siteName: "Able Plumbing",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "FlowMaster Plumbing | Professional Plumbing Services",
+    title: "Able Plumbing | Professional Plumbing Services",
     description: "Expert plumbing services for residential and commercial properties. 24/7 emergency plumbing available.",
   },
 };
